@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malith-madushan&label=Profile%20views&color=0e75b6&style=flat" alt="malith-madushan" /> </p>
 
-- 🔭 I’m currently Studing Software Enginnering **ITP**
+- 🔭 I’m currently Studing Software Enginnering 
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android , MEARN**
 
